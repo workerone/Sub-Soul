@@ -1,15 +1,13 @@
 v0.5 Release (10.06.2013)
 
-
-
-- Implementación Visual
-- Cifrado de información [AES] + MasterKey
-
+- Implementaciï¿½n Visual
+- Cifrado de informaciï¿½n [AES] + MasterKey
+- ImplementaciÃ³n de SQLite
 
 v0.4 Beta
 
-- Creación / Edición / Eliminación de grupos
-- Creación / Edición / Eliminación de registros
+- Creaciï¿½n / Ediciï¿½n / Eliminaciï¿½n de grupos
+- Creaciï¿½n / Ediciï¿½n / Eliminaciï¿½n de registros
 
 v0.3 Beta
 
