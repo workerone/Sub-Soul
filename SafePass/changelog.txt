@@ -1,0 +1,24 @@
+v0.5 Release (10.06.2013)
+
+
+
+- Implementación Visual
+- Cifrado de información [AES] + MasterKey
+
+
+v0.4 Beta
+
+- Creación / Edición / Eliminación de grupos
+- Creación / Edición / Eliminación de registros
+
+v0.3 Beta
+
+- Pruebas
+
+v0.2 Beta
+
+- Pruebas
+
+v0.1 Beta
+
+- Pruebas

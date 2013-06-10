@@ -1,0 +1,15 @@
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\bin\Release\SafePass.exe.config
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\bin\Release\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\bin\Release\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\bin\Release\System.Data.SQLite.dll
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.FRM_About.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.FRM_Auth.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.FRM_Main.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.FRM_Entry.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.FRM_Group.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.FRM_MasterKey.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.FRM_PassGen.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.Properties.Resources.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.csproj.GenerateResource.Cache
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Release\SafePass.pdb

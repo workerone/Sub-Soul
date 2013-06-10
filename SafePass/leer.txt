@@ -1,0 +1,8 @@
+Nota: Para que funcione de la aplicación hace falta tener
+las librerias de SQLite en el mismo directorio que el ejecutable.
+
+Las librerias:
+ - SQLite.Interop.dll
+ - System.Data.SQLite.dll
+
+Carpeta de las librerias : \SafePass v0.5\libs\
