@@ -1,13 +1,19 @@
+﻿v0.6 Release (11.06.2013)
+
+- Fallos corregidos
+  - Conflicto de MasterKey
+  - Problema de conexión a la base de datos
+
 v0.5 Release (10.06.2013)
 
-- Implementaci�n Visual
-- Cifrado de informaci�n [AES] + MasterKey
+- Implementación Visual
+- Cifrado de información [AES] + MasterKey
 - Implementación de SQLite
 
 v0.4 Beta
 
-- Creaci�n / Edici�n / Eliminaci�n de grupos
-- Creaci�n / Edici�n / Eliminaci�n de registros
+- Creación / Edición / Eliminación de grupos
+- Creación / Edición / Eliminación de registros
 
 v0.3 Beta
 
