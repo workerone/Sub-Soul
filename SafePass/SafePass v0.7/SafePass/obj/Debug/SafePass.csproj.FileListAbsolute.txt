@@ -1,0 +1,111 @@
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\Debug\SafePass.csprojResolveAssemblyReference.cache
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\Debug\SafePass.FRM_Main.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\Debug\SafePass.FRM_NuevaEntrada.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\Debug\SafePass.Properties.Resources.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\Debug\SafePass.csproj.GenerateResource.Cache
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\bin\Debug\SafePass.exe.config
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\bin\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\bin\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\bin\Debug\System.Data.SQLite.dll
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\bin\Debug\SafePass.exe.config
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\obj\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\obj\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\obj\Debug\SafePass.csprojResolveAssemblyReference.cache
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\obj\Debug\SafePass.FRM_Main.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\obj\Debug\SafePass.FRM_NuevaEntrada.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\obj\Debug\SafePass.Properties.Resources.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\obj\Debug\SafePass.csproj.GenerateResource.Cache
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\bin\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\bin\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\bin\Debug\System.Data.SQLite.dll
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.2\SafePass\obj\Debug\SafePass.FRM_NuevoGrupo.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\bin\Debug\SafePass.exe.config
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\bin\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\bin\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\bin\Debug\System.Data.SQLite.dll
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\obj\Debug\SafePass.FRM_Main.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\obj\Debug\SafePass.FRM_NuevaEntrada.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\obj\Debug\SafePass.FRM_NuevoGrupo.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\obj\Debug\SafePass.Properties.Resources.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\obj\Debug\SafePass.csproj.GenerateResource.Cache
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\obj\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\obj\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\obj\Debug\SafePass.csprojResolveAssemblyReference.cache
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.3\SafePass\obj\Debug\SafePass.FRM_Auth.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\bin\Debug\SafePass.exe.config
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\bin\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\bin\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\bin\Debug\System.Data.SQLite.dll
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\obj\Debug\SafePass.FRM_Auth.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\obj\Debug\SafePass.FRM_Main.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\obj\Debug\SafePass.FRM_NewEntry.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\obj\Debug\SafePass.FRM_NewGroup.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\obj\Debug\SafePass.Properties.Resources.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\obj\Debug\SafePass.csproj.GenerateResource.Cache
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\obj\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.4\SafePass\obj\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_About.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_Auth.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_Main.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_Entry.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_Group.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_MasterKey.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_PassGen.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.Properties.Resources.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.csproj.GenerateResource.Cache
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\bin\Debug\SafePass.exe.config
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\bin\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\bin\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\bin\Debug\System.Data.SQLite.dll
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.csprojResolveAssemblyReference.cache
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\bin\Debug\SafePass.exe.config
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.exe
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.pdb
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\bin\Debug\SafePass.exe
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\bin\Debug\SafePass.pdb
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\bin\Debug\System.Data.SQLite.dll
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.csprojResolveAssemblyReference.cache
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_About.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_Auth.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_Main.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_Entry.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_Group.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_MasterKey.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.FRM_PassGen.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.Properties.Resources.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.5\SafePass\obj\Debug\SafePass.csproj.GenerateResource.Cache
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\bin\Debug\SafePass.exe.config
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.exe
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.pdb
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\bin\Debug\SafePass.exe
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\bin\Debug\SafePass.pdb
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\bin\Debug\System.Data.SQLite.dll
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.csprojResolveAssemblyReference.cache
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.FRM_About.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.FRM_Auth.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.FRM_Main.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.FRM_Entry.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.FRM_Group.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.FRM_MasterKey.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.FRM_PassGen.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.Properties.Resources.resources
+D:\Underground\PROGRAMACION\NET\Mis Proyectos .NET\C#\Source\SafePass\SafePass v0.6\SafePass\obj\Debug\SafePass.csproj.GenerateResource.Cache
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\bin\Debug\SafePass.exe.config
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\bin\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\bin\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\bin\Debug\System.Data.SQLite.dll
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.FRM_About.resources
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.FRM_Auth.resources
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.FRM_Main.resources
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.FRM_Entry.resources
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.FRM_Group.resources
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.FRM_MasterKey.resources
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.FRM_PassGen.resources
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.Properties.Resources.resources
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.csproj.GenerateResource.Cache
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\Mi Repositorio\Sub-Soul\SafePass\SafePass v0.7\SafePass\obj\Debug\SafePass.pdb

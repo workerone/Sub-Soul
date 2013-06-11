@@ -1,0 +1,9 @@
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\bin\x86\Debug\SafePass.exe.config
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\bin\x86\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\bin\x86\Debug\SafePass.pdb
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\x86\Debug\SafePass.FRM_Main.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\x86\Debug\SafePass.Properties.Resources.resources
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\x86\Debug\SafePass.csproj.GenerateResource.Cache
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\x86\Debug\SafePass.exe
+C:\Users\Petrosyan\Desktop\SafePass\SafePass\obj\x86\Debug\SafePass.pdb
