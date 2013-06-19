@@ -1,9 +1,0 @@
-C:\Users\Petrosyan\Desktop\File Explorer\File Explorer\bin\Debug\File Explorer.exe
-C:\Users\Petrosyan\Desktop\File Explorer\File Explorer\bin\Debug\File Explorer.pdb
-C:\Users\Petrosyan\Desktop\File Explorer\File Explorer\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Petrosyan\Desktop\File Explorer\File Explorer\obj\x86\Debug\File_Explorer.Properties.Resources.resources
-C:\Users\Petrosyan\Desktop\File Explorer\File Explorer\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\Petrosyan\Desktop\File Explorer\File Explorer\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\Petrosyan\Desktop\File Explorer\File Explorer\obj\x86\Debug\File Explorer.exe
-C:\Users\Petrosyan\Desktop\File Explorer\File Explorer\obj\x86\Debug\File Explorer.pdb
-C:\Users\Petrosyan\Desktop\File Explorer\File Explorer\obj\x86\Debug\File_Explorer.FRM_Main.resources
